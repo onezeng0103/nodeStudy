@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "age": 20
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "age": 30
+  },
+  {
+    "id": 3,
+    "username": "guest",
+    "age": 40
+  },
+  {
+    "username": "ces11",
+    "age": "12",
+    "id": 4
+  },
+  {
+    "username": "ces12",
+    "age": "13",
+    "id": 5
+  },
+  {
+    "username": "ces12",
+    "age": "14",
+    "id": 6
+  },
+  {
+    "username": "ces12",
+    "age": "14",
+    "id": 7
+  },
+  {
+    "username": "ces12",
+    "age": "15",
+    "id": 8
+  }
+]
